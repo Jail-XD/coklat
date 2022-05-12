@@ -8,5 +8,5 @@
 
 
 # menjalankan
-[•] cd coklat            
-[•] python Brute³.py
+[•] > cd coklat            
+[•] > python Brute³.py
